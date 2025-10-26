@@ -1,0 +1,9 @@
+.vscode/
+*.png
+*.pdf
+/.quarto/
+.gitattributes
+OLD-UNUSED/
+Groupwork_files/
+week1/
+week2/
