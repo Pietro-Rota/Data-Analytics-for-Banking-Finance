@@ -1,9 +1,13 @@
 .vscode/
-*.png
 *.pdf
 /.quarto/
 .gitattributes
 OLD-UNUSED/
-Groupwork_files/
+Groupwork_files/libs
+Groupwork_files/mediabag
+Groupwork_files\libs
 week1/
 week2/
+Groupwork/Groupwork_files/libs/bootstrap
+Groupwork/Groupwork_files/libs/clipboard
+Groupwork/Groupwork_files/libs/quarto-html
